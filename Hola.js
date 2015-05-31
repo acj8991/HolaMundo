@@ -2,7 +2,8 @@
 
 public function HolaMundo(){
 
-
-	alert("Hola Mundo");
+var oe;
+oe = "Andres es un gay;
+	alert("oe");
 	console.log("Hola2");
 }
