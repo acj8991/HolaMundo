@@ -2,8 +2,9 @@
 
 public function HolaMundo(){
 
-var oe;
-oe = "Andres es un gay;
+var verdadd;
+verdadd = "Andres es un gay;
 	alert("oe");
-	console.log("Hola2");
+	console.log("confirmado");
+
 }
